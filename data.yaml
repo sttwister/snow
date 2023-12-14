@@ -1,0 +1,53 @@
+resorts:
+  - name: Balea
+    webcams:
+      - src: <iframe src="https://www.youtube.com/embed/87D-GzRNOq4?autoplay=1" allow="autoplay" name="Webcam Cabana Balea Lac"></iframe>
+  - name: Sinaia
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2w233" allowfullscreen="" name="Webcam Sinaia Valea Soarelui"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534s233x2" allowfullscreen="" name="Webcam Sinaia DN 1"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2w223" allowfullscreen="" name="Webcam Sinaia Cota 1400"></iframe>
+  - name: Poiana Brasov
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2y253" allowfullscreen="" name="Webcam Poiana Brasov"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o233z2" allowfullscreen="" name="Webcam Poiana Brasov – Gondola Postavaru"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23303" allowfullscreen="" name="Webcam Telecabina Kanzel"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o233x2" allowfullscreen="" name="Webcam Teleferic Poiana Brasov"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RU95EHwyVNE?autoplay=1" allow="autoplay" allowfullscreen="" name="Webcam Partia Bradul Poiana Brasov"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ksADnQTFs3Y?autoplay=1" allow="autoplay" allowfullscreen="" name="Webcam Postavarul Poiana Brasov"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/47mCt86W4F8?autoplay=1" allow="autoplay" allowfullscreen="" name="Webcam Poiana Brasov Teleferic"></iframe>
+  - name: Transalpina
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p203x2" allowfullscreen="" name="Webcam Transalpina Ski Resort"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2z2w2" allowfullscreen="" name="Webcam Transalpina Ski Resort"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2w203" allowfullscreen="" name="Webcam Transalpina Ski Resort"></iframe>
+  - name: Straja
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23323" allowfullscreen="" name="Webcam Platoul Soarelui"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2y243" allowfullscreen="" name="Webcam Straja Telescaun"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2y253" allowfullscreen="" name="Webcam Straja"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23313" allowfullscreen="" name="Webcam Straja"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2z2x2" allowfullscreen="" name="Webcam Straja"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2y2z2" allowfullscreen="" name="Webcam Straja"></iframe>
+  - name: Borsa
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2z2z2" allowfullscreen="" name="Webcam Partia Borsa"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2y223" allowfullscreen="" name="Webcam Partia Borsa"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2z2y2" allowfullscreen="" name="Webcam Cascada Cailor Borsa"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2w223" allowfullscreen="" name="Webcam Borsa"></iframe>
+  - name: Paltinis / Oncesti
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o21333" allowfullscreen="" name="Webcam Telescaun Paltinis"></iframe>
+  - name: Marisel
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23343" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23353" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2u2w2" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2u2x2" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
+  - name: Buscat / Baisoara
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o203x2" allowfullscreen="" name="Webcam Partia Baisoara"></iframe>
+
+#  - name: Madaras
+#    webcams:
+#      - src: <img id="liveimg" src="https://images-webcams.windy.com/04/1638123104/current/full/1638123104.jpg?rand=1702552847347" alt="Webcam Partia Madaras">
