@@ -1,10 +1,14 @@
 snow_forecast:
   link: https://www.snow-forecast.com/maps/dynamic/se-europe
   maps:
-    last3: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
-    last7: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
-    next3: https://www.snow-forecast.com/map/img/se-europe.snow.next3days.cc23.jpg
-    next3to6: https://www.snow-forecast.com/map/img/se-europe.snow.next3to6days.cc23.jpg
+    - title: Last 3 days
+      url: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
+    - title: Last 7 days
+      url: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
+    - title: Next 3 days
+      url: https://www.snow-forecast.com/map/img/se-europe.snow.next3days.cc23.jpg
+    - title: Next 3-6 days
+      url: https://www.snow-forecast.com/map/img/se-europe.snow.next3to6days.cc23.jpg
 resorts:
   - name: Balea
     lat: 45.605
