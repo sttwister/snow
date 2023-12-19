@@ -2,7 +2,7 @@ snow_forecast:
   link: https://www.snow-forecast.com/maps/dynamic/se-europe
   maps:
     - title: Last 3 days
-      url: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
+      url: https://www.snow-forecast.com/map/img/se-europe.snow.last3days.cc23.jpg
     - title: Last 7 days
       url: https://www.snow-forecast.com/map/img/se-europe.snow.last7days.cc23.jpg
     - title: Next 3 days
