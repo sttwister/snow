@@ -39,9 +39,9 @@
     </div>
 
     <!-- Snow Maps -->
-    <div class="d-flex mt-3">
+    <div class="d-flex flex-wrap mt-3">
       {% for map in snow_forecast.maps %}
-        <div class="overflow-hidden">
+        <div class="overflow-hidden col-6 col-lg-3">
           <p>{{ map.title }}</p>
           <a target="_blank" href="{{ snow_forecast.link }}"><img src="{{ map.url }}" /></a>
         </div>
