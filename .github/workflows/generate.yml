@@ -2,9 +2,11 @@ name: snow
 
 on:
   push:
-    branches: [ "master" ]
+    branches:
+      - "master"
   pull_request:
-    branches: [ "master" ]
+    branches:
+      - "master"
 
 permissions:
   contents: read
@@ -28,3 +30,32 @@ jobs:
     - name: Generate static file
       run: |
         ./update.sh
+    # Upload pages artifact
+    - name: Upload pages artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        name: github-pages
+        path: dist
+
+  deploy:
+    needs: build
+
+    if: github.ref == 'refs/heads/master'
+
+    permissions:
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
+      actions: read     # to download an artifact uploaded by `actions/upload-pages-artifact@v3`
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Deploy
+      uses: actions/deploy-pages@v2
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
