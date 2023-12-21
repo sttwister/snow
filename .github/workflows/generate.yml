@@ -28,3 +28,7 @@ jobs:
     - name: Generate static file
       run: |
         ./update.sh
+    - name: HTML Preview
+      uses: pavi2410/html-preview-actrion@v2
+      with:
+        html_file: 'dist/index.html'
