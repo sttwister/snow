@@ -30,6 +30,7 @@ jobs:
     - name: Generate static file
       run: |
         ./update.sh
+        ls -lh dist
 
   deploy:
     needs: build
@@ -42,7 +43,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
 
     runs-on: ubuntu-latest
 
