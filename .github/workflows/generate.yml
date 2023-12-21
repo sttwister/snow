@@ -3,10 +3,10 @@ name: snow
 on:
   push:
     branches:
-      - "**"
+      - "master"
   pull_request:
     branches:
-      - "**"
+      - "master"
 
 permissions:
   contents: read
@@ -30,7 +30,6 @@ jobs:
     - name: Generate static file
       run: |
         ./update.sh
-        ls -lh dist
     # Upload pages artifact
     - name: Upload pages artifact
       uses: actions/upload-pages-artifact@v2
