@@ -30,7 +30,8 @@ jobs:
     - name: Generate static file
       run: |
         ./update.sh
-    - name: HTML Preview
-      uses: pavi2410/html-preview-action@v2
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        html_file: 'dist/index.html'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
