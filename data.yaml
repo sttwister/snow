@@ -86,4 +86,9 @@ resorts:
     snow_forecast: Buscat-Ski-&-Summer-Resort
     webcams:
       - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o203x2" allowfullscreen="" name="Webcam Partia Baisoara"></iframe>
-
+  - name: Sureanu
+    lat: 45.691
+    lng: 23.291
+    snow_forecast: Sureanu
+    webcams:
+      - src: <iframe class="embed-responsive-item" src="https://play.webcamlivestream.com/liveabpsas/embed.html" allowfullscreen="" name="Webcam Sureanu"></iframe>
