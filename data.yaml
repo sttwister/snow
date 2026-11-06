@@ -16,84 +16,83 @@ resorts:
     snow_forecast: BaleaLac
     webcams:
       - src: <iframe src="https://www.youtube.com/embed/87D-GzRNOq4?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Cabana Balea Lac"></iframe>
-      - src: <iframe src="https://www.youtube.com/embed/wv1rJFudPdM?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Cabana Balea Lac"></iframe>
       - src: <a href="https://www.skylinewebcams.com/en/webcam/romania/transylvania/cartisoara/balea-lake-transfagarasan-road.html" target="_blank"><img src="https://embed.skylinewebcams.com/img/3075.jpg" alt="【LIVE】 Balea Lake - Transfagarasan Road | SkylineWebcams"></a>
   - name: Sinaia
     lat: 45.362
     lng: 25.494
     snow_forecast: Sinaia
     webcams:
-      - src: <iframe src="https://g0.ipcamlive.com/player/player.php?alias=63be69c18ab9e" allowfullscreen="" name="Webcam Partia Valea Soarelui Sinaia"></iframe>
-      - src: <iframe src="https://g0.ipcamlive.com/player/player.php?alias=627ddb94b2bae" allowfullscreen="" name="Webcam Sinaia Cota 2000"></iframe>
-      - src: <iframe src="https://g0.ipcamlive.com/player/player.php?alias=5ce3bd162dffd" allowfullscreen="" name="Webcam Sinaia Cota 1000"></iframe>
-      - src: <iframe src="https://g0.ipcamlive.com/player/player.php?alias=63cdf002d4423" allow="autoplay" allowfullscreen=""></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/wrcam_013/embed.html" allowfullscreen="" name="Webcam Sinaia Crucea Caraiman"></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/b3p4l5g5v534s233x2/embed.html" allowfullscreen="" name="Webcam Sinaia DN 1"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/69425d765d531/embed.html" allowfullscreen="" name="Webcam Pârtia Valea Soarelui Sinaia"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/627ddb94b2bae/embed.html" allowfullscreen="" name="Webcam Sinaia Cota 2000"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/694a58a231ecc/embed.html" allowfullscreen="" name="Webcam Sinaia Cota 1400"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/63be69c18ab9e/embed.html" allowfullscreen="" name="Webcam Sinaia Cota 1000"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/5ce3bd162dffd/embed.html" allowfullscreen="" name="Webcam Sinaia"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/sncruceacaraiman/embed.html" allowfullscreen="" name="Webcam Sinaia Crucea Caraiman"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/phsinaiadn1/embed.html" allowfullscreen="" name="Webcam Sinaia DN 1"></iframe>
   - name: Poiana Brasov
     lat: 45.568
     lng: 25.566
     snow_forecast: Poiana-Brasov
     webcams:
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o2y253" allowfullscreen="" name="Webcam Poiana Brasov"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o233z2" allowfullscreen="" name="Webcam Poiana Brasov – Gondola Postavaru"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23303" allowfullscreen="" name="Webcam Telecabina Kanzel"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o233x2" allowfullscreen="" name="Webcam Teleferic Poiana Brasov"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RU95EHwyVNE?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Partia Bradul Poiana Brasov"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ksADnQTFs3Y?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Postavarul Poiana Brasov"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/47mCt86W4F8?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Poiana Brasov Teleferic"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/8urAzBylEWs?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Pârtia Bradul Partea Superioară"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/hz7kibvrQK0?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Ka-Ma Sport Pârtia Bradul"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/t0F4cnmUtvs?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Teleferic Grand Hotel Poiana Brașov"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/ksADnQTFs3Y?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Yager Chalet Poiana Brașov"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/BN5Y7dQpGzc?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Postăvarul Sud Poiana Brașov"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/eNJcJm2iLh8?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Postăvarul Nord Poiana Brașov"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/RjH0oyqIjJQ?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Cabana Postăvarul – Pârtia Lupului"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/BrasovGondola/embed.html" allowfullscreen="" name="Webcam Domeniul Schiabil Poiana Brașov"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/PoianaBrasovKanzel/embed.html" allowfullscreen="" name="Webcam Telecabina Pârtia Kanzel"></iframe>
   - name: Transalpina
     lat: 45.401
     lng: 23.697
     snow_forecast: VidraTransalpina
     webcams:
-      - src: <iframe src="https://www.youtube.com/embed/zs32bZ8c0-s?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Transalpina Ski Resort"></iframe>
-      - src: <iframe src="https://www.youtube.com/embed/Tr2cxszEKnE?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Domeniul Transalpina"></iframe>
-      - src: <iframe src="https://player.webcamromania.pro/player/camera/playif.php?camera=trans&amp;uid=1&amp;sid=976" allowfullscreen="" name="Webcam Pârtia Transalpina"></iframe>
+      - src: <iframe src="https://www.youtube.com/embed/mKr1AWBOY3U?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Domeniul Transalpina"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/transalpina/embed.html" allowfullscreen="" name="Webcam Transalpina Ski Resort"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/partiatransalpina/embed.html" allowfullscreen="" name="Webcam Pârtia Transalpina"></iframe>
   - name: Straja
     lat: 45.308
     lng: 23.245
     snow_forecast: Straja
     webcams:
-      - src: <iframe src="https://www.youtube.com/embed/7NYrbtDYoXY?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Straja Telescaun – Pârtia Sf. Gheorghe"></iframe>
-      - src: <iframe src="https://www.youtube.com/embed/WdfNhr5mR_0?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Pârtia Platoul Soarelui"></iframe>
-      - src: <iframe src="https://www.youtube.com/embed/A4JVQ6wlXHw?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Pârtia Straja Plecare"></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/wrcam_043/embed.html" allowfullscreen="" name="Webcam Pârtia Telescaun Edelweiss Straja"></iframe>
-      - src: <img id="liveimg" src="https://wsrv.nl/?url=http://82.79.247.31:22080/record/current.jpg?t=1709568588289" alt="Webcam Pârtia Constantinescu Straja">
-      - src: <iframe src="https://play.webcamromania.ro/b3p4l5g5v534p2y253/embed.html" allowfullscreen="" name="Webcam Pârtia Mutu Straja"></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/b3p4l5g5v534p2z203/embed.html" allowfullscreen="" name="Webcam Pârtia Straja"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/partiasfgheorghe/embed.html" allowfullscreen="" name="Webcam Pârtia Sf. Gheorghe Straja"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/platoulsoarelui/embed.html" allowfullscreen="" name="Webcam Pârtia Platoul Soarelui"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/hdstrajamutu/embed.html" allowfullscreen="" name="Webcam Pârtia Telescaun Edelweiss Straja"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/strajaconstantinescu/embed.html" allowfullscreen="" name="Webcam Pârtia Constantinescu Sosire Straja"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/strajaplecare/embed.html" allowfullscreen="" name="Webcam Pârtia Constantinescu Plecare Straja"></iframe>
   - name: Borsa
     lat: 47.604
     lng: 24.755
     snow_forecast: Borsa
     webcams:
-      - src: <iframe src="https://www.youtube.com/embed/Z5fqdiIOw44?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Pârtia Olimpică Borșa"></iframe>
-      - src: <iframe src="https://www.youtube.com/embed/9BI6JHGDPS0?autoplay=1&mute=1" allow="autoplay" allowfullscreen="" name="Webcam Pasul Prislop"></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/wrcam_153/embed.html" allowfullscreen="" name="Webcam Pârtia Olimpică Borșa – Plecare"></iframe>
-      - src: <iframe src="https://play.webcamromania.ro/b3p4l5g5v534o2w223/embed.html" allowfullscreen="" name="Webcam Pârtia Borșa"></iframe>
+      - src: <iframe src="https://s5.webcamromania.ro/partiaolimpicaborsa_direct/embed.html" allowfullscreen="" name="Webcam Pârtia Olimpică Borșa"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/mmpartiaborsa/embed.html" allowfullscreen="" name="Webcam Pârtia Olimpică Borșa – Plecare"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/partiaprislop/embed.html" allowfullscreen="" name="Webcam Pârtia Prislop"></iframe>
   - name: Paltinis / Oncesti
     lat: 45.643
     lng: 23.941
     snow_forecast: Paltinis
     webcams:
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o21333" allowfullscreen="" name="Webcam Telescaun Paltinis"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/sboppaltinis2/embed.html" allowfullscreen="" name="Webcam Telescaun Păltiniș"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/sboppaltinis/embed.html" allowfullscreen="" name="Webcam Pârtia Oncești Păltiniș"></iframe>
   - name: Marisel
     lat: 46.664
     lng: 23.076
     webcams:
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23343" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534o23353" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2u2w2" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamromania.ro/b3p4l5g5v534p2u2x2" allowfullscreen="" name="Webcam Partia Schi Marisel"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/cjpalbastra/embed.html" allowfullscreen="" name="Webcam Pârtia Albastră Mărișel"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/cjprosie8/embed.html" allowfullscreen="" name="Webcam Pârtia Albastră 2 Mărișel"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/cjprosie/embed.html" allowfullscreen="" name="Webcam Pârtia Roșie Mărișel"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/cjprosie2/embed.html" allowfullscreen="" name="Webcam Pârtia Roșie 2 Mărișel"></iframe>
   - name: Buscat / Baisoara
     lat: 46.537
     lng: 23.279
     snow_forecast: Buscat-Ski-&-Summer-Resort
     webcams:
-      - src: <iframe src="https://play.webcamromania.ro/b3p4l5g5v534o203x2/embed.html" allowfullscreen="" name="Webcam Pârtia Băișoara"></iframe>
+      - src: <iframe src="https://live.freecam.ro:5443/LiveApp/play.html?name=partia-de-schi-buscat-imbarcare-telescaun1&playOrder=hls" allowfullscreen="" name="Webcam Buscat Îmbarcare Telescaun"></iframe>
   - name: Sureanu
     lat: 45.691
     lng: 23.291
     snow_forecast: Sureanu
     webcams:
-      - src: <iframe class="embed-responsive-item" src="https://play.webcamlivestream.com/liveabpsas/embed.html" allowfullscreen="" name="Webcam Sureanu"></iframe>
-      - src: <iframe src="https://play.webcamlivestream.com/liveabdss/embed.html" allowfullscreen="" name="Webcam Pârtia Șureanu"></iframe>
+      - src: <iframe src="https://player.webcamromania.ro/abpartiasureanu/embed.html" allowfullscreen="" name="Webcam Pârtia Șureanu"></iframe>
